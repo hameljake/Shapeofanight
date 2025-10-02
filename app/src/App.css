@@ -1,0 +1,31 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Typography styles for scenes */
+.scene-title {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: var(--color-text);
+}
+
+.scene-copy {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  line-height: 1.6;
+  color: var(--color-text-dim);
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.scene-annotation {
+  font-size: 0.875rem;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+

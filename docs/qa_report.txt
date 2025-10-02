@@ -1,0 +1,41 @@
+[SPAC] Performances: 19 (expected ~19). Sets present: ['I', 'II', 'E']
+[Energy Curve] Global bins: 40. Median energy (min/median/max): -0.202/0.025/0.310
+[Jam Stats] Top by ≥15min:
+                song_slug    n  pct_ge_15  pct_ge_20  median_duration
+       the-thrill-is-gone  1.0        1.0        0.0       1102.83800
+               if-6-was-9  1.0        1.0        0.0        932.62400
+                tower-jam  1.0        1.0        1.0       1617.41360
+    quadrophonic-toppling  2.0        1.0        1.0       1273.97900
+       time-turns-elastic 18.0        1.0        0.0       1004.17300
+       cold-rain-and-snow  1.0        1.0        0.0        962.79500
+          the-way-it-goes  1.0        1.0        0.0        919.87600
+            and-flew-away  1.0        1.0        1.0       1400.40000
+        down-by-the-river  1.0        1.0        0.0       1144.39800
+              ambient-jam  1.0        1.0        1.0       1443.29628
+everyday-i-have-the-blues  1.0        1.0        1.0       1403.97700
+        fire-up-the-ganja  1.0        1.0        0.0        916.08800
+[Jam Stats] Top by ≥20min:
+                     song_slug     n  pct_ge_20  pct_ge_15  median_duration
+                  drive-in-jam   1.0   1.000000   1.000000       1344.88032
+     everyday-i-have-the-blues   1.0   1.000000   1.000000       1403.97700
+                     tower-jam   1.0   1.000000   1.000000       1617.41360
+         quadrophonic-toppling   2.0   1.000000   1.000000       1273.97900
+                 and-flew-away   1.0   1.000000   1.000000       1400.40000
+                   ambient-jam   1.0   1.000000   1.000000       1443.29628
+           nothin-but-a-nothin   2.0   0.500000   0.500000        800.52770
+what-s-going-through-your-mind  12.0   0.250000   0.583333        994.63200
+                    guy-forget   4.0   0.250000   0.500000        624.74750
+              you-enjoy-myself 650.0   0.247692   0.740000       1063.21000
+            set-your-soul-free  47.0   0.191489   0.361702        737.15900
+                 mr-completely  17.0   0.176471   0.529412        989.71200
+[Era Trails] Songs with multiple eras — summary of era counts per song:
+count    378.000000
+mean       3.082011
+std        1.017692
+min        2.000000
+25%        2.000000
+50%        3.000000
+75%        4.000000
+max        5.000000
+[Venue Affinity] Selected venue presence: {'saratoga-performing-arts-center': True, 'madison-square-garden': True, 'dicks-sporting-goods-park': False}
+[Size] galaxy_min.json size: 5649.8 KB (quantized to 4 decimals)

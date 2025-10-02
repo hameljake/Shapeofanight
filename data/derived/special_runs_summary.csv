@@ -1,0 +1,81 @@
+show_id,date,venue_slug,is_nye,is_halloween,is_bakers_dozen,is_dicks,is_festival,perf_count,median_energy,longest_jam_sec,longest_jam_song,longest_jam_sec_exact
+1986-10-31_sculpture-room-goddard-college,1986-10-31,sculpture-room-goddard-college,0,1,0,0,0,21,0.12844139531032833,708.702,have mercy,708.702
+1987-10-31_sculpture-room-goddard-college,1987-10-31,sculpture-room-goddard-college,0,1,0,0,0,30,0.2198107607130116,899.056,you enjoy myself,899.056
+1989-10-31_goddard-college,1989-10-31,goddard-college,0,1,0,0,0,23,0.03797546474761562,1063.21,david bowie,1063.21
+1989-12-31_boston-world-trade-center-exhibition-hall,1989-12-31,boston-world-trade-center-exhibition-hall,1,0,0,0,0,19,-0.031208715369776485,993.776,you enjoy myself,993.776
+1990-10-31_armstrong-hall-colorado-college,1990-10-31,armstrong-hall-colorado-college,0,1,0,0,0,27,-0.08599702562219716,987.037,you enjoy myself,987.037
+1990-12-31_boston-world-trade-center-exhibition-hall,1990-12-31,boston-world-trade-center-exhibition-hall,1,0,0,0,0,22,-0.04932008283103355,959.53,rocky top,959.53
+1991-10-31_armstrong-hall-colorado-college,1991-10-31,armstrong-hall-colorado-college,0,1,0,0,0,27,-0.000297276134216401,1024.5254799999989,costume contest,1024.5254799999989
+1991-12-31_worcester-memorial-auditorium,1991-12-31,worcester-memorial-auditorium,1,0,0,0,0,30,0.22638497398207713,792.947,tweezer,792.947
+1992-12-31_matthews-arena-northeastern-university,1992-12-31,matthews-arena-northeastern-university,1,0,0,0,0,32,0.14804581234274586,1125.956,weekapaug groove,1125.956
+1993-12-31_worcester-centrum-centre,1993-12-31,worcester-centrum-centre,1,0,0,0,0,29,-0.21397222721724346,1285.9404000000002,possum,1285.9404000000002
+1994-10-31_glens-falls-civic-center,1994-10-31,glens-falls-civic-center,0,1,0,0,0,51,0.2846542304254377,1011.775,divided sky,1011.775
+1994-12-31_boston-garden,1994-12-31,boston-garden,1,0,0,0,0,27,-0.23293903822005052,1000.072,bouncing around the room,1000.072
+1995-10-31_rosemont-horizon,1995-10-31,rosemont-horizon,0,1,0,0,0,31,0.572192357807229,1545.144099999998,jesus just left chicago,1545.144099999998
+1995-12-31_madison-square-garden,1995-12-31,madison-square-garden,1,0,0,0,0,26,0.13456893923810434,1538.116,weekapaug groove,1538.116
+1996-10-31_the-omni,1996-10-31,the-omni,0,1,0,0,0,27,0.31056982407252476,1369.443,you enjoy myself,1369.443
+1996-12-31_fleetcenter,1996-12-31,fleetcenter,1,0,0,0,0,27,0.15947758202610118,952.346,down with disease,952.346
+1997-08-16_loring-commerce-centre,1997-08-16,loring-commerce-centre,0,0,0,0,1,26,0.19118575602821336,1462.204,you enjoy myself,1462.204
+1997-08-17_loring-commerce-centre,1997-08-17,loring-commerce-centre,0,0,0,0,1,27,0.13390709743499427,1523.2007999999987,down with disease,1523.2007999999987
+1997-12-31_madison-square-garden,1997-12-31,madison-square-garden,1,0,0,0,0,24,0.184128226624438,1111.301,weekapaug groove,1111.301
+1998-08-14_loring-commerce-centre,1998-08-14,loring-commerce-centre,0,0,0,0,1,9,0.44940769786196516,446.537,down home dirty blues,446.537
+1998-08-15_loring-commerce-centre,1998-08-15,loring-commerce-centre,0,0,0,0,1,31,0.12869672292446746,1443.2962799999998,david bowie,1443.2962799999998
+1998-08-16_loring-commerce-centre,1998-08-16,loring-commerce-centre,0,0,0,0,1,31,0.0636135905361066,1160.725,down with disease,1160.725
+1998-10-31_thomas-mack-center,1998-10-31,thomas-mack-center,0,1,0,0,0,25,0.36211237736356855,1443.2962799999998,wolfman s brother,1443.2962799999998
+1998-12-31_madison-square-garden,1998-12-31,madison-square-garden,1,0,0,0,0,21,0.08484762219063069,1111.275,simple,1111.275
+1999-07-17_oswego-county-airport,1999-07-17,oswego-county-airport,0,0,0,0,1,20,0.018254528739450295,1415.184,down with disease,1415.184
+1999-07-18_oswego-county-airport,1999-07-18,oswego-county-airport,0,0,0,0,1,28,0.03714708038382028,1501.701,piper,1501.701
+1999-12-29_big-cypress-seminole-indian-reservation,1999-12-29,big-cypress-seminole-indian-reservation,0,0,0,0,1,7,0.654636859725309,410.4045,what s the use,410.4045
+1999-12-30_big-cypress-seminole-indian-reservation,1999-12-30,big-cypress-seminole-indian-reservation,0,0,0,0,1,33,-0.004431151291305141,1005.61,taste,1005.61
+1999-12-31_big-cypress-seminole-indian-reservation,1999-12-31,big-cypress-seminole-indian-reservation,1,0,0,0,1,51,0.08847031888614994,1517.8830999999993,you enjoy myself,1517.8830999999993
+2002-12-31_madison-square-garden,2002-12-31,madison-square-garden,1,0,0,0,0,24,0.18615824270134632,1087.8561399999999,walls of the cave,1087.8561399999999
+2003-08-01_loring-commerce-centre,2003-08-01,loring-commerce-centre,0,0,0,0,1,3,-0.6418869370816114,462.3675,skin it back,462.3675
+2003-08-02_loring-commerce-centre,2003-08-02,loring-commerce-centre,0,0,0,0,1,27,0.07748760087728114,1617.4136000000012,tower jam,1617.4136000000012
+2003-08-03_loring-commerce-centre,2003-08-03,loring-commerce-centre,0,0,0,0,1,22,0.004830245268928656,1617.4136000000012,ghost,1617.4136000000012
+2003-12-31_american-airlines-arena,2003-12-31,american-airlines-arena,1,0,0,0,0,26,0.07074132788913522,1568.4,you enjoy myself,1568.4
+2009-10-29_empire-polo-club,2009-10-29,empire-polo-club,0,0,0,0,1,12,0.4825593168493512,471.6825,undermind,471.6825
+2009-10-30_empire-polo-club,2009-10-30,empire-polo-club,0,0,0,0,1,22,0.03963005414432655,1012.167,time turns elastic,1012.167
+2009-10-31_empire-polo-club,2009-10-31,empire-polo-club,0,1,0,0,1,33,0.28606208895877727,1224.6760400000003,you enjoy myself,1224.6760400000003
+2009-11-01_empire-polo-club,2009-11-01,empire-polo-club,0,0,0,0,1,41,0.11259587948749433,927.478,light,927.478
+2009-12-31_american-airlines-arena,2009-12-31,american-airlines-arena,1,0,0,0,0,30,0.26628888833846764,882.73,joy,882.73
+2010-10-31_boardwalk-hall,2010-10-31,boardwalk-hall,0,1,0,0,0,37,0.39690349907178635,1030.609,you enjoy myself,1030.609
+2010-12-31_madison-square-garden,2010-12-31,madison-square-garden,1,0,0,0,0,29,0.3041762866003301,1083.69,meatstick,1083.69
+2011-06-30_watkins-glen-international,2011-06-30,watkins-glen-international,0,0,0,0,1,6,0.41416239422811285,471.6825,undermind,471.6825
+2011-07-01_watkins-glen-international,2011-07-01,watkins-glen-international,0,0,0,0,1,26,0.07495912411206623,893.832,bathtub gin,893.832
+2011-07-02_watkins-glen-international,2011-07-02,watkins-glen-international,0,0,0,0,1,45,-0.009344223013729728,1130.475,storage jam,1130.475
+2011-07-03_watkins-glen-international,2011-07-03,watkins-glen-international,0,0,0,0,1,26,0.013079443702981287,967.523,reba,967.523
+2011-12-31_madison-square-garden,2011-12-31,madison-square-garden,1,0,0,0,0,28,0.1793506977811391,894.668,fluffhead,894.668
+2012-12-31_madison-square-garden,2012-12-31,madison-square-garden,1,0,0,0,0,30,0.12051005277438566,1127.993,you enjoy myself,1127.993
+2013-10-31_boardwalk-hall,2013-10-31,boardwalk-hall,0,1,0,0,0,31,0.05786489216775961,1158.949,carini,1158.949
+2013-12-31_madison-square-garden,2013-12-31,madison-square-garden,1,0,0,0,0,26,0.1795210590218896,1196.748,you enjoy myself,1196.748
+2014-10-31_mgm-grand-garden-arena,2014-10-31,mgm-grand-garden-arena,0,1,0,0,0,31,0.25629962564085085,1057.933,sand,1057.933
+2014-12-31_american-airlines-arena,2014-12-31,american-airlines-arena,1,0,0,0,0,31,0.32601818753360423,1027.579,tweezer,1027.579
+2015-08-20_watkins-glen-international,2015-08-20,watkins-glen-international,0,0,0,0,1,1,0.06521984410493246,389.4725,jam,389.4725
+2015-08-21_watkins-glen-international,2015-08-21,watkins-glen-international,0,0,0,0,1,21,0.1394099215339231,1344.880319999996,bathtub gin,1344.880319999996
+2015-08-22_watkins-glen-international,2015-08-22,watkins-glen-international,0,0,0,0,1,32,-0.16422830265769076,1344.880319999996,drive in jam,1344.880319999996
+2015-08-23_watkins-glen-international,2015-08-23,watkins-glen-international,0,0,0,0,1,23,0.047974509070636856,1264.692,you enjoy myself,1264.692
+2015-12-31_madison-square-garden,2015-12-31,madison-square-garden,1,0,0,0,0,26,-0.13066426044397406,995.579,piper,995.579
+2016-10-31_mgm-grand-garden-arena,2016-10-31,mgm-grand-garden-arena,0,1,0,0,0,31,0.2591647382593366,929.384,petrichor,929.384
+2016-12-31_madison-square-garden,2016-12-31,madison-square-garden,1,0,0,0,0,29,0.0909753725121793,891.664,divided sky,891.664
+2017-07-21_madison-square-garden,2017-07-21,madison-square-garden,0,0,1,0,0,19,0.2032454474729537,951.145,tweezer,951.145
+2017-07-22_madison-square-garden,2017-07-22,madison-square-garden,0,0,1,0,0,20,-0.17033537681847044,1128.072,down with disease,1128.072
+2017-07-23_madison-square-garden,2017-07-23,madison-square-garden,0,0,1,0,0,17,0.003855944715053697,963.84,twist,963.84
+2017-07-25_madison-square-garden,2017-07-25,madison-square-garden,0,0,1,0,0,14,0.21616966169989474,1458.43914,lawn boy,1458.43914
+2017-07-26_madison-square-garden,2017-07-26,madison-square-garden,0,0,1,0,0,17,0.12497102193206033,951.85,carini,951.85
+2017-07-28_madison-square-garden,2017-07-28,madison-square-garden,0,0,1,0,0,20,0.13121563580198295,1458.43914,chalk dust torture,1458.43914
+2017-07-29_madison-square-garden,2017-07-29,madison-square-garden,0,0,1,0,0,21,0.36318733748406107,1398.256,blaze on,1398.256
+2017-07-30_madison-square-garden,2017-07-30,madison-square-garden,0,0,1,0,0,17,0.35774916488634045,1335.768,drowned,1335.768
+2017-08-01_madison-square-garden,2017-08-01,madison-square-garden,0,0,1,0,0,21,0.3981570591162076,1207.876,golden age,1207.876
+2017-08-02_madison-square-garden,2017-08-02,madison-square-garden,0,0,1,0,0,19,-0.008836154555992959,1344.104,mike s song,1344.104
+2017-08-04_madison-square-garden,2017-08-04,madison-square-garden,0,0,1,0,0,18,0.5441967957039993,1042.077,fluffhead,1042.077
+2017-08-05_madison-square-garden,2017-08-05,madison-square-garden,0,0,1,0,0,20,0.3757873121103079,1243.611,ghost,1243.611
+2017-08-06_madison-square-garden,2017-08-06,madison-square-garden,0,0,1,0,0,20,0.18472545443052268,1458.43914,simple,1458.43914
+2017-12-31_madison-square-garden,2017-12-31,madison-square-garden,1,0,0,0,0,24,-0.15075844308421987,1244.317,you enjoy myself,1244.317
+2018-10-31_mgm-grand-garden-arena,2018-10-31,mgm-grand-garden-arena,0,1,0,0,0,28,0.4081035099026844,928.679,tweezer,928.679
+2018-12-31_madison-square-garden,2018-12-31,madison-square-garden,1,0,0,0,0,29,0.0915934793169172,1077.744,down with disease,1077.744
+2019-12-31_madison-square-garden,2019-12-31,madison-square-garden,1,0,0,0,0,26,0.1736452686014303,947.383,drift while you re sleeping,947.383
+2021-10-31_mgm-grand-garden-arena,2021-10-31,mgm-grand-garden-arena,0,1,0,0,0,26,0.47264016113440044,1563.1822799999998,ghost,1563.1822799999998
+2021-12-31_rock-lititz,2021-12-31,rock-lititz,1,0,0,0,0,25,0.1838932414647893,1063.21,you enjoy myself,1063.21
+2022-12-31_madison-square-garden,2022-12-31,madison-square-garden,1,0,0,0,0,34,0.318941354219492,822.192,tweezer,822.192
+2023-12-31_madison-square-garden,2023-12-31,madison-square-garden,1,0,0,0,0,30,0.1802245892433872,1199.496,you enjoy myself,1199.496
+2024-12-31_madison-square-garden,2024-12-31,madison-square-garden,1,0,0,0,0,29,0.09098283582993599,1195.56,my friend my friend,1195.56
