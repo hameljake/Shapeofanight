@@ -52,6 +52,8 @@ export interface RoleCentroid {
 
 export interface EnergyCurvePoint {
   bin: number;
+  slot_bin: number;
+  energy: number;
   median: number;
   q25: number;
   q75: number;

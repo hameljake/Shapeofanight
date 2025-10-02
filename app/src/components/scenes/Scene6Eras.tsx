@@ -56,7 +56,7 @@ const Scene6Eras: React.FC<SceneProps> = ({ data, isActive, progress }) => {
     // Draw trails
     setGlobalAlpha(ctx, 0.85);
     visibleTrails.forEach((trail) => {
-      const points = trail.trail.map((p) => ({ x: xScale(p.x), y: yScale(p.y), era: p.era_label }));
+      const points = trail.trail.map((p: any) => ({ x: xScale(p.x), y: yScale(p.y), era: p.era_label }));
       if (points.length < 2) return;
 
       const totalSegments = points.length - 1;

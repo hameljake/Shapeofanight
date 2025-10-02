@@ -7,7 +7,7 @@ import { createUMAPScales, roleColorScale, jamGlowScale } from '@/utils/scales';
 const Scene11Return: React.FC<SceneProps> = ({ data, isActive, progress }) => {
   const ctx = useCanvas();
 
-  const spacTimeline = data.spac_timeline || [];
+  // const spacTimeline = data.spac_timeline || [];
   const galaxy = data.galaxy || [];
   const jamLevels = data.jam_levels_by_perf || {};
 
@@ -17,15 +17,15 @@ const Scene11Return: React.FC<SceneProps> = ({ data, isActive, progress }) => {
   }, [galaxy]);
 
   // Create lookup for SPAC timeline data
-  const spacLookup = useMemo(() => {
-    const lookup: Record<string, any> = {};
-    spacTimeline.forEach(perf => {
-      // Create a key that might match galaxy perf_id
-      const key = `${perf.song_title.toLowerCase().replace(/\s+/g, '-')}_${perf.set_label}_${perf.position}`;
-      lookup[key] = perf;
-    });
-    return lookup;
-  }, [spacTimeline]);
+  // const _spacLookup = useMemo(() => {
+  //   const lookup: Record<string, any> = {};
+  //   spacTimeline.forEach(perf => {
+  //     // Create a key that might match galaxy perf_id
+  //     const key = `${perf.song_title.toLowerCase().replace(/\s+/g, '-')}_${perf.set_label}_${perf.position}`;
+  //     lookup[key] = perf;
+  //   });
+  //   return lookup;
+  // }, [spacTimeline]);
 
   useEffect(() => {
     if (!ctx) return;

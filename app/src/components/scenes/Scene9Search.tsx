@@ -10,7 +10,7 @@ const Scene9Search: React.FC<SceneProps> = ({ data, isActive, progress }) => {
   const [selectedShow, setSelectedShow] = useState<string | null>(null);
 
   const galaxy = data.galaxy || [];
-  const showToPerformances = data.show_to_performances || {};
+  // const _showToPerformances = data.show_to_performances || {};
 
   // Build searchable show list from available data
   const availableShows = useMemo(() => {
@@ -127,9 +127,6 @@ const Scene9Search: React.FC<SceneProps> = ({ data, isActive, progress }) => {
                     fontSize: '11px',
                     background: selectedShow === show ? 'rgba(99, 102, 241, 0.3)' : 'transparent',
                     borderBottom: '1px solid rgba(255,255,255,0.05)',
-                    ':hover': {
-                      background: 'rgba(255,255,255,0.1)'
-                    }
                   }}
                   onMouseEnter={(e) => {
                     e.currentTarget.style.background = 'rgba(255,255,255,0.1)';

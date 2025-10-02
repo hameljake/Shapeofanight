@@ -10,7 +10,7 @@ const Scene8Specials: React.FC<SceneProps> = ({ data, isActive, progress }) => {
   const ctx = useCanvas();
   const [filterType, setFilterType] = useState<SpecialType>('all');
 
-  const specials = (data.specials_grid || []) as Array<{
+  const specials = (data.specials_grid || []) as unknown as Array<{
     show_id: string;
     date: string;
     venue_slug: string;
@@ -52,7 +52,6 @@ const Scene8Specials: React.FC<SceneProps> = ({ data, isActive, progress }) => {
     clearCanvas(ctx, width, height);
 
     // Draw grid cells for each special show
-    const t = Math.min(1, Math.max(0, progress));
     setGlobalAlpha(ctx, 0.85);
 
     filteredSpecials.forEach((show, index) => {

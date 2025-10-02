@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { SceneProps } from '@/types';
+import { SceneProps, SetLabel } from '@/types';
 import { useCanvas } from '../VisualizationCanvas';
 import { clearCanvas, drawCircle, drawLine } from '@/utils/canvas';
 import { createTimelineScale } from '@/utils/scales';
@@ -17,9 +17,10 @@ const Scene1Timeline: React.FC<SceneProps> = ({ data, isActive, progress }) => {
     const xScale = createTimelineScale(width, maxSlot);
 
     // Set Y positions for each set
-    const setYPositions = {
+    const setYPositions: Record<SetLabel, number> = {
       'I': height * 0.35,
       'II': height * 0.5,
+      'III': height * 0.5,
       'E': height * 0.65,
     };
 

@@ -67,7 +67,7 @@ const Scene3Roles: React.FC<SceneProps> = ({ data, isActive, progress }) => {
     data.galaxy.forEach((perf) => {
       const x = xScale(perf.x_umap);
       const y = yScale(perf.y_umap);
-      const role = data.perf_to_role[perf.perf_id] || 'other';
+      const role = data.perf_to_role?.[perf.perf_id] || 'other';
       
       drawCircle(
         ctx,

@@ -1,7 +1,7 @@
 import React from 'react';
 import { SceneProps } from '@/types';
 
-const Scene10Methods: React.FC<SceneProps> = ({ data, isActive, progress }) => {
+const Scene10Methods: React.FC<SceneProps> = ({ data: _data, isActive, progress: _progress }) => {
   if (!isActive) return null;
 
   return (

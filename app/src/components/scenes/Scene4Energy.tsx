@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { SceneProps } from '@/types';
 import { useCanvas } from '../VisualizationCanvas';
-import { clearCanvas, setGlobalAlpha, resetGlobalAlpha } from '@/utils/canvas';
+import { setGlobalAlpha, resetGlobalAlpha } from '@/utils/canvas';
 import { scaleLinear } from 'd3-scale';
 
 const Scene4Energy: React.FC<SceneProps> = ({ data, isActive, progress }) => {

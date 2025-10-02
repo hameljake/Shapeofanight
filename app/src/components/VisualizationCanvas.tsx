@@ -33,7 +33,7 @@ const VisualizationCanvas: React.FC<VisualizationCanvasProps> = ({ children }) =
         const dpr = window.devicePixelRatio || 1;
         
         // Store current transform
-        const currentTransform = ctx.getTransform();
+        // const _currentTransform = ctx.getTransform();
         
         // Reset canvas and clear
         canvas.width = dimensions.width * dpr;

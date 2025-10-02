@@ -1,6 +1,6 @@
 import { SceneData } from '@/types';
 // Eagerly import all JSON files in scenes so Vite can bundle them correctly
-const sceneJsonModules = import.meta.glob('../../scenes/*.json', { eager: true, import: 'default' }) as Record<string, any>;
+const sceneJsonModules = (import.meta as any).glob('../../scenes/*.json', { eager: true, import: 'default' }) as Record<string, any>;
 
 // Build a filename -> data map (e.g., 'spac_2014_07_04_timeline.json' => data)
 const filenameToData: Record<string, any> = Object.fromEntries(
