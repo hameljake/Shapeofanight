@@ -5,6 +5,8 @@
   overflow-y: auto;
   overflow-x: hidden;
   scroll-behavior: smooth;
+  /* Ensure proper iframe behavior */
+  -webkit-overflow-scrolling: touch;
 }
 
 .visualization-fixed {
